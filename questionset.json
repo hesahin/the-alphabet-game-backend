@@ -1,0 +1,190 @@
+{
+    "id": 1,
+    "validDate": "2024-09-16",
+    "category": "mixed",
+    "questions": [
+      {
+        "order": 1,
+        "initial": "A",
+        "category": "mixed",
+        "text": "Which animal has long legs and is often found in Africa?",
+        "answer": "Antelope"
+      },
+      {
+        "order": 2,
+        "initial": "B",
+        "category": "mixed",
+        "text": "What is the name of the large, flightless bird native to Australia?",
+        "answer": "Bald Eagle"
+      },
+      {
+        "order": 3,
+        "initial": "C",
+        "category": "mixed",
+        "text": "What is the term for a large, predatory fish known for its sharp teeth?",
+        "answer": "Crocodile"
+      },
+      {
+        "order": 4,
+        "initial": "D",
+        "category": "mixed",
+        "text": "Which large, herbivorous mammal is known for its long neck and legs?",
+        "answer": "Giraffe"
+      },
+      {
+        "order": 5,
+        "initial": "E",
+        "category": "mixed",
+        "text": "What is the name of the largest land mammal on Earth?",
+        "answer": "Elephant"
+      },
+      {
+        "order": 6,
+        "initial": "F",
+        "category": "mixed",
+        "text": "Which animal is known for its ability to change color and is found in tropical regions?",
+        "answer": "Frog"
+      },
+      {
+        "order": 7,
+        "initial": "G",
+        "category": "mixed",
+        "text": "What is the name of the large, carnivorous mammal that is often associated with the jungle?",
+        "answer": "Gorilla"
+      },
+      {
+        "order": 8,
+        "initial": "H",
+        "category": "mixed",
+        "text": "Which animal is known for its distinctive black and white stripes and is native to Africa?",
+        "answer": "Hippopotamus"
+      },
+      {
+        "order": 9,
+        "initial": "I",
+        "category": "mixed",
+        "text": "What is the name of the animal that is known for its ability to glide through the air and is native to Australia?",
+        "answer": "Iguana"
+      },
+      {
+        "order": 10,
+        "initial": "J",
+        "category": "mixed",
+        "text": "Which animal is known for its intelligence and is often used in experiments?",
+        "answer": "Jaguar"
+      },
+      {
+        "order": 11,
+        "initial": "K",
+        "category": "mixed",
+        "text": "What is the name of the large, herbivorous mammal native to Australia, known for its powerful legs and tail?",
+        "answer": "Kangaroo"
+      },
+      {
+        "order": 12,
+        "initial": "L",
+        "category": "mixed",
+        "text": "Which large cat is known for its impressive mane and is often called the 'king of the jungle'?",
+        "answer": "Lion"
+      },
+      {
+        "order": 13,
+        "initial": "M",
+        "category": "mixed",
+        "text": "What is the name of the large, social primate that lives in troops and is known for its loud calls?",
+        "answer": "Monkey"
+      },
+      {
+        "order": 14,
+        "initial": "N",
+        "category": "mixed",
+        "text": "Which large, flightless bird is native to New Zealand and is known for its long legs and large size?",
+        "answer": "Nightingale"
+      },
+      {
+        "order": 15,
+        "initial": "O",
+        "category": "mixed",
+        "text": "What is the name of the large, carnivorous mammal that is native to North America and is known for its distinctive howl?",
+        "answer": "Ocelot"
+      },
+      {
+        "order": 16,
+        "initial": "P",
+        "category": "mixed",
+        "text": "Which large, flightless bird is known for its colorful feathers and is native to South America?",
+        "answer": "Penguin"
+      },
+      {
+        "order": 17,
+        "initial": "Q",
+        "category": "mixed",
+        "text": "What is the name of the small, rodent-like mammal known for its ability to glide through the air?",
+        "answer": "Quokka"
+      },
+      {
+        "order": 18,
+        "initial": "R",
+        "category": "mixed",
+        "text": "Which large, carnivorous animal is known for its distinctive roar and lives in prides?",
+        "answer": "Rhino"
+      },
+      {
+        "order": 19,
+        "initial": "S",
+        "category": "mixed",
+        "text": "What is the name of the large, predatory fish known for its speed and agility?",
+        "answer": "Shark"
+      },
+      {
+        "order": 20,
+        "initial": "T",
+        "category": "mixed",
+        "text": "Which large, herbivorous mammal is known for its tusks and trunk?",
+        "answer": "Tiger"
+      },
+      {
+        "order": 21,
+        "initial": "U",
+        "category": "mixed",
+        "text": "What is the name of the large, flightless bird known for its distinctive call and is native to Africa?",
+        "answer": "Uakari"
+      },
+      {
+        "order": 22,
+        "initial": "V",
+        "category": "mixed",
+        "text": "Which large, herbivorous mammal is known for its long neck and legs, and is often found in Africa?",
+        "answer": "Vulture"
+      },
+      {
+        "order": 23,
+        "initial": "W",
+        "category": "mixed",
+        "text": "What is the name of the large, predatory bird known for its impressive wingspan and is often found in North America?",
+        "answer": "Wolf"
+      },
+      {
+        "order": 24,
+        "initial": "X",
+        "category": "mixed",
+        "text": "Which exotic, nocturnal animal is known for its distinctive appearance and is native to Madagascar?",
+        "answer": "Xerus"
+      },
+      {
+        "order": 25,
+        "initial": "Y",
+        "category": "mixed",
+        "text": "What is the name of the large, herbivorous mammal known for its long legs and is native to Africa?",
+        "answer": "Yak"
+      },
+      {
+        "order": 26,
+        "initial": "Z",
+        "category": "mixed",
+        "text": "Which large, predatory cat is known for its distinctive stripes and is native to Asia?",
+        "answer": "Zebra"
+      }
+    ]
+  }
+  
