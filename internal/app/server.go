@@ -52,9 +52,10 @@ func StartServer(deps ServerDependencies) {
 }
 
 func (server *Server) bindRoutes() {
-	routes.HealthRoute(server.app)
-	routes.QuestionSetRoute(server.app, server.questionSetController)
-	routes.NotFoundRoute(server.app)
+	group := server.app.Group("/api")
+	routes.HealthRoute(group)
+	routes.QuestionSetRoute(group, server.questionSetController)
+	routes.NotFoundRoute(group)
 }
 
 func (server *Server) gracefulShutdown() {
